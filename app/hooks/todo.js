@@ -129,7 +129,7 @@ export function useTodo() {
           }),
         )
     }
-
+ 
     const removeStaticTodo = async (todoID) => {
         setTodos(
             todos.filter(todo => {
