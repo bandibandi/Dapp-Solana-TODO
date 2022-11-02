@@ -30,7 +30,7 @@ let dummyTodos = [
     {
         account:{
             idx: '2',
-            content: 'Read next chapter of the book in Danish',
+            content: 'Read next chapter of the book in English',
             marked: false,   
         }
     },
